@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/client-combined-3.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.jbehave.eclipse_1.0.0.20140605-0717.jar"/>
+	<classpathentry kind="lib" path="lib/gherkin-2.7.3.jar"/>
+	<classpathentry kind="lib" path="lib/gherkin-jvm-deps-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jbehave-core-4.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/jbehave-gherkin-3.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/jbehave-junit-runner-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

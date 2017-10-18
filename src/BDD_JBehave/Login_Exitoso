@@ -1,0 +1,5 @@
+
+Scenario: El usuario quiere ingresar a la plataforma Sahitest.
+Given: El usuario no está logueado.
+When: El usuario ingresa "test" como $usuario y "secret" como $password.
+Then: El login debe ser exitoso.
